@@ -1,6 +1,6 @@
 [book]
 authors = ["k-nasa"]
-language = "en"
+language = "ja"
 multilingual = false
 src = "src"
 title = "wasm interpreter"
